@@ -1,3 +1,11 @@
+# 7th May
+## The conditional trait
+https://ashallendesign.co.uk/blog/laravel-conditionable-trait
+
+I like the when method that we can run on our queries. I find it more readable. 
+
+And this conditional trait is something that I came to know today. And, I am quite confident I will bring this into my workflow. 
+
 # 6th May
 
 ## Understanding Contextual binding and how we can use that for Inversion of Control
