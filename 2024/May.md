@@ -1,4 +1,11 @@
 # 7th May
+
+# Automatic Re-hashing password in Laravel with config
+https://securinglaravel.com/security-tip-laravel-11s-automatic
+
+This article shows how we can configure the hasing mechanism so that it re-hash the password of users.
+With the increase power of computers, it becomes important that the rounds of hashing are increased from time to time.
+
 ## The conditional trait
 https://ashallendesign.co.uk/blog/laravel-conditionable-trait
 
