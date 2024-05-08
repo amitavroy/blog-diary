@@ -1,3 +1,10 @@
+# 8th May
+# Native PHP support for Windows
+https://laravel-news.com/nativephp-windows-builds
+
+Now this is interesting. Building apps with Electron was fun. However, when I can do that in PHP, it's going to be next level. 
+Now the overall framework looks quite matured and so it makes sense to look at some serious apps.
+
 # 7th May
 
 # Automatic Re-hashing password in Laravel with config
