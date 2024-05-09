@@ -1,5 +1,14 @@
+# 9th May
+## Docker profiles to manage multiple environments
+https://collabnix.com/leveraging-compose-profiles-for-dev-prod-test-and-staging-environments/
+
+This article talks about the use of Docker profiles and how it can help us manage our dev, test, and prod environments better. 
+It helps us manage our composer file better because duplication can be reduced significantly.
+https://collabnix.com/leveraging-compose-profiles-for-dev-prod-test-and-staging-environments/
+https://docs.docker.com/compose/profiles/
+
 # 8th May
-# Native PHP support for Windows
+## Native PHP support for Windows
 https://laravel-news.com/nativephp-windows-builds
 
 Now this is interesting. Building apps with Electron was fun. However, when I can do that in PHP, it's going to be next level. 
@@ -7,7 +16,7 @@ Now the overall framework looks quite matured and so it makes sense to look at s
 
 # 7th May
 
-# Automatic Re-hashing password in Laravel with config
+## Automatic Re-hashing password in Laravel with config
 https://securinglaravel.com/security-tip-laravel-11s-automatic
 
 This article shows how we can configure the hasing mechanism so that it re-hash the password of users.
