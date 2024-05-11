@@ -1,4 +1,11 @@
 # 11th May
+
+## Great article on Strategy pattern
+https://ashallendesign.co.uk/blog/using-the-strategy-pattern-in-laravel
+
+I like to play with different patterns of code and try to understand what pattern is good for what kind of situations.
+This article does the same.
+
 ## Running Sonarqube to scan code using Docker
 https://dev.to/tacianosilva/running-a-sonarqube-server-and-client-with-docker-7bk
 
