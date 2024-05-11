@@ -1,3 +1,11 @@
+# 11th May
+## Running Sonarqube to scan code using Docker
+https://dev.to/tacianosilva/running-a-sonarqube-server-and-client-with-docker-7bk
+
+This article very nicely explains how we can set up Sonarqube to scan code using Docker.
+Additionally, this GitHub code is what I have used to run the sonarqube container
+https://github.com/emad-zaamout/SonarQube-Dockerized
+
 # 9th May
 ## Docker profiles to manage multiple environments
 https://collabnix.com/leveraging-compose-profiles-for-dev-prod-test-and-staging-environments/
