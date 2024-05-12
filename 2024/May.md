@@ -1,3 +1,10 @@
+# 12th May
+## Handling scale for notifications by Razorpay
+https://engineering.razorpay.com/how-razorpays-notification-service-handles-increasing-load-f787623a490f
+
+A great article describing how Razorpay handled the problem of scale for their notification service and the different 
+strategies that they implemented to handle the problem of scaling.
+
 # 11th May
 
 ## Great article on Strategy pattern
