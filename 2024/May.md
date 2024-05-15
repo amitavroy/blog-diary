@@ -1,3 +1,9 @@
+# 15th May
+## Scaling Laravel to 100M+ jobs and 30,000 requests/sec
+https://mateusguimaraes.com/posts/scaling-laravel
+
+A great article on how they tackled the problem of handling multiple jobs at scale.
+
 # 12th May
 ## Handling scale for notifications by Razorpay
 https://engineering.razorpay.com/how-razorpays-notification-service-handles-increasing-load-f787623a490f
