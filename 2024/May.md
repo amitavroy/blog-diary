@@ -1,4 +1,11 @@
 # 16th May
+
+## Working on side projects - a reflection 
+https://aschmelyun.com/blog/the-crippling-problem-of-being-able-to-build-whatever-you-want/
+
+A great article articulating the advantages, dis-advantages of working on our app ideas
+and how we can set some priorities to it.
+
 ## Delegateed type pattern - Timeline table for Post and comment
 https://mateusguimaraes.com/posts/the-delegated-type-pattern-and-multi-table-inheritance
 
