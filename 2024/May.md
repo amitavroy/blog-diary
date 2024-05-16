@@ -1,3 +1,11 @@
+# 16th May
+## Delegateed type pattern - Timeline table for Post and comment
+https://mateusguimaraes.com/posts/the-delegated-type-pattern-and-multi-table-inheritance
+
+This is an interesting approach when we need to show different types of entities in one place. Like showing Posts and comments
+in a timeline would mean we will have to query and merge and play around with stuff. 
+This approach shows something simple.
+
 # 15th May
 ## Scaling Laravel to 100M+ jobs and 30,000 requests/sec
 https://mateusguimaraes.com/posts/scaling-laravel
