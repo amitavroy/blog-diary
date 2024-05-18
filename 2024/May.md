@@ -1,3 +1,9 @@
+# 18th May
+## Building a notification system and the APIs
+https://www.notificationapi.com/blog/notification-service-design-with-architectural-diagrams
+
+A detailed article on how the APIs should be when creating a Notification system.
+
 # 16th May
 
 ## Working on side projects - a reflection 
