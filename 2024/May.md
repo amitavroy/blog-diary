@@ -1,3 +1,10 @@
+# 19th May
+## What's new with PHP 8.4
+https://laravel-news.com/php-8-4-0
+
+PHP has been evolving significantly since PHP 7.x and the latest one due around end of November is coming with some 
+great improvements which I am really excited about.
+
 # 18th May
 ## Building a notification system and the APIs
 https://www.notificationapi.com/blog/notification-service-design-with-architectural-diagrams
