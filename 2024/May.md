@@ -1,4 +1,12 @@
 # 19th May
+## Why choose boring tech for long-running projects
+https://backpackforlaravel.com/articles/opinions/choose-boring-technology-for-long-term-projects
+
+When we are doing side projects, we can leverage using new tech. However, when it comes to a long-running project, it's important to 
+note that once a decision is made, it will last for a long time. And hence, we should not be emotional about these things. And should
+not do it just because others are doing it. 
+
+
 ## What's new with PHP 8.4
 https://laravel-news.com/php-8-4-0
 
