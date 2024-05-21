@@ -1,3 +1,11 @@
+# 21st May
+## How Canva solved the problem of counting billions
+https://www.canva.dev/blog/engineering/scaling-to-count-billions
+
+Very detailed article on how Canva faced certain problems at scale and how they solved the problem.
+It gives a great idea about how the engineering team iterated over the problem and considered different
+aspects before coming to a final conclusion.
+
 # 19th May
 ## Why choose boring tech for long-running projects
 https://backpackforlaravel.com/articles/opinions/choose-boring-technology-for-long-term-projects
