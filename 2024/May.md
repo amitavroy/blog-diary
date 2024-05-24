@@ -1,3 +1,9 @@
+# 24th May
+## Canva talking about how they saved a lot with S3 tier pricing
+https://www.canva.dev/blog/engineering/optimising-s3-savings/
+
+A great article talking about the AWS storage analytics and how Canva was able to save a lot on their storage cost.
+
 # 21st May
 ## How Canva solved the problem of counting billions
 https://www.canva.dev/blog/engineering/scaling-to-count-billions
