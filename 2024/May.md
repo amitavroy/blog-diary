@@ -1,4 +1,10 @@
 # 24th May
+
+## Building a cost-effective logging platform using Clickhouse for petabyte scale
+https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale
+
+A great article showcasing how Zomato handled their huge logging requirement and how Clickhouse helped them.
+
 ## Canva talking about how they saved a lot with S3 tier pricing
 https://www.canva.dev/blog/engineering/optimising-s3-savings/
 
