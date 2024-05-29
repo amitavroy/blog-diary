@@ -1,3 +1,9 @@
+# 29th May
+## Migrating a Trillion Entries of Uber’s Ledger Data from DynamoDB to LedgerStore
+https://www.uber.com/en-IN/blog/migrating-from-dynamodb-to-ledgerstore/
+
+Moving from one data store to another, the challenge of high volume data and how to ensure the new data 
+is not corrupted. 
 # 24th May
 
 ## Building a cost-effective logging platform using Clickhouse for petabyte scale
