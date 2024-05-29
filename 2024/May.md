@@ -1,4 +1,10 @@
 # 29th May
+
+## Cheat sheet on Docker image best practices
+https://lipanski.com/posts/dockerfile-ruby-best-practices
+
+A great article on some of the best practices for Docker images
+
 ## Migrating a Trillion Entries of Uber’s Ledger Data from DynamoDB to LedgerStore
 https://www.uber.com/en-IN/blog/migrating-from-dynamodb-to-ledgerstore/
 
