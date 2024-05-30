@@ -4,6 +4,11 @@ https://lipanski.com/posts/speed-up-your-docker-builds-with-cache-from
 
 An article explaining the different ways we can use cache to speed up Docker image build process.
 
+## How We Reduced Our GitLab CI Pipeline Duration by 70% at Student Beans
+https://cpcwood.com/blog/6-how-we-reduced-our-gitlab-ci-pipeline-duration-by-70-at-student-beans
+
+One more article about improving the Gitlab pipeline duration
+
 # 29th May
 
 ## Cheat sheet on Docker image best practices
