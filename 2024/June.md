@@ -1,3 +1,10 @@
+# 3rd June
+## How to Automatically Update Docker Container Images with Watchtower on Ubuntu 22.04
+https://www.digitalocean.com/community/tutorials/how-to-automatically-update-docker-container-images-with-watchtower-on-ubuntu-22-04
+
+Was looking for an article to understand how Watchtower works and how we can configure it to get it to run.
+This article details out the process nicely.
+
 # 2nd June
 
 ## Good resource on doing API testing with PEST PHP
