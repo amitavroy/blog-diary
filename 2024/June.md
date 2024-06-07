@@ -1,10 +1,16 @@
 # 7th June
-## whats HSTS header, how it is useful and how not having it can be dangerous
+## Whats HSTS header, how it is useful and how not having it can be dangerous
 https://kinsta.com/knowledgebase/hsts-missing-from-https-server/
 https://www.cyberis.com/article/five-minute-fix-http-strict-transport-security-hsts-not-enforced
 
 This article of Kinsta talks about how HSTS header makes the site more secure for the end user
 and how not having it can make a man-in-the-middle attack possible.
+
+## Survey - 54% of people look through more search results vs. 5 years ago
+https://searchengineland.com/search-engine-experience-results-ads-survey-442943
+
+It was clear to me that ads were not very useful. However, this survey result does suggest 
+along the same lines.
 
 # 3rd June
 ## How to Automatically Update Docker Container Images with Watchtower on Ubuntu 22.04
