@@ -1,4 +1,10 @@
 # 8th June
+
+## Security First: DevSecOps Empowerment with Terrascan
+https://blog.devops.dev/security-first-devsecops-empowerment-with-terrascan-0434d365a2ff
+
+Something that I would like to try out.
+
 ## Get More Attention For Your Creations By Telling Your Three Stories
 https://fortheinterested.com/get-more-attention/
 
