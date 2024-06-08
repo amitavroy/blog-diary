@@ -1,3 +1,10 @@
+# 8th June
+## Get More Attention For Your Creations By Telling Your Three Stories
+https://fortheinterested.com/get-more-attention/
+
+An article talks about how we should have a story so that we are able to generate more attention from the audience.
+People want to read story
+
 # 7th June
 ## Whats HSTS header, how it is useful and how not having it can be dangerous
 https://kinsta.com/knowledgebase/hsts-missing-from-https-server/
