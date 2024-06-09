@@ -1,5 +1,11 @@
 # 9th June
 
+## Marketing budgets have been shrinking in recent years, report says
+https://www.marketingbrew.com/stories/2024/05/20/marketing-budgets-shrinking-gartner-cmo-report
+
+Looks like pre covid the typical marketing budget for a company was around 11% of the total revenue. 
+This has been dropping since covid and that continues to be the case even this year.
+
 ## Costco is building out an ad business using its shoppers’ data
 https://www.marketingbrew.com/stories/2024/06/06/costco-is-building-out-an-ad-business-using-shopper-data
 
