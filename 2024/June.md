@@ -1,3 +1,10 @@
+# 9th June
+
+## Costco is building out an ad business using its shoppers’ data
+https://www.marketingbrew.com/stories/2024/06/06/costco-is-building-out-an-ad-business-using-shopper-data
+
+Big brands are using their data for Ads and this is seen as a common trend. Rather Costco is late to the party.
+
 # 8th June
 
 ## Security First: DevSecOps Empowerment with Terrascan
