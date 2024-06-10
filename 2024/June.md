@@ -1,4 +1,11 @@
 # 10th June
+
+## How I give the right amount of context (in any situation)
+https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context
+
+Communication is key in any role. A software developer is no exception. 
+This article talks about some of the things that we should keep in mind with real-life examples.
+
 ## Winning Arguments vs. Solving Problems: The Product Manager’s Conundrum
 https://rohitverma141.medium.com/winning-arguments-vs-solving-problems-the-product-managers-conundrum-472de0b1b123
 
