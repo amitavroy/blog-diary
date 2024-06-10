@@ -1,3 +1,9 @@
+# 10th June
+## Winning Arguments vs. Solving Problems: The Product Manager’s Conundrum
+https://rohitverma141.medium.com/winning-arguments-vs-solving-problems-the-product-managers-conundrum-472de0b1b123
+
+A nicely written article on how PMs need to focus on the improvement of Product, solving problems and not winning arguments.
+
 # 9th June
 
 ## Marketing budgets have been shrinking in recent years, report says
