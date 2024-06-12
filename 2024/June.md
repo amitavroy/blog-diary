@@ -1,5 +1,12 @@
 # 10th June
 
+## Faster Docker builds with composer install ⚡
+https://dev.to/iacons/faster-docker-builds-with-composer-install-3opj
+
+While I continue to work on improving the pipeline time of our pipeline, the build process is one stage where 
+improvements can be done. This article talks in great details about how we can use the cache layer and play around
+with Composer to speed up the build process.
+
 ## How I give the right amount of context (in any situation)
 https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context
 
