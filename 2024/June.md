@@ -1,5 +1,10 @@
 # 17th June
 
+## How to write a LinkedIn post that gets a lot of views
+https://www.linkedin.com/posts/jaindl_how-to-write-a-linkedin-post-that-gets-85537-ugcPost-7206813084298981376-g5z2
+
+Science behind a good post on LinkedIn. The tips that are given in this article are very practicle and has worked.
+
 ## Selling More With Instagram: A Proven Organic Strategy
 https://www.socialmediaexaminer.com/selling-more-with-instagram-a-proven-organic-strategy
 
