@@ -1,3 +1,10 @@
+# 17th June
+
+## Selling More With Instagram: A Proven Organic Strategy
+https://www.socialmediaexaminer.com/selling-more-with-instagram-a-proven-organic-strategy
+
+A detailed article on some strategies for companies who want to sell on Instagram.
+
 # 12th June
 
 ## Faster Docker builds with composer install ⚡
