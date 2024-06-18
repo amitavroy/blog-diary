@@ -1,3 +1,11 @@
+# 18th June
+
+## Customer Experience Gets Worse. Again.
+https://www.wsj.com/articles/customer-experience-gets-worse-again-23774dff
+
+Customers are expecting much better service and they are ready to pay a premium as well. 
+Interesting point of view for E-com
+
 # 17th June
 
 ## How to write a LinkedIn post that gets a lot of views
