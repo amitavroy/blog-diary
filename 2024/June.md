@@ -1,3 +1,8 @@
+# 20th June
+
+## Rest.li Architecture User Guide
+https://linkedin.github.io/rest.li/user_guide/server_architecture
+
 # 18th June
 
 ## Customer Experience Gets Worse. Again.
