@@ -1,3 +1,8 @@
+# 23rd June
+
+## 3 zero-click content tactics
+https://news.marketingpowerups.com/p/3-zero-click-content-tactics
+
 # 20th June
 
 ## Rest.li Architecture User Guide
