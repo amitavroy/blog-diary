@@ -1,3 +1,11 @@
+# 24th June
+
+## What Good PMs Don't Do
+https://dpereira.substack.com/p/why-conventional-product-management
+
+## Write Less, Fix Never: The Art of Highly Reliable Code
+https://dev.to/middleware/write-less-fix-never-the-art-of-highly-reliable-code-5a0i
+
 # 23rd June
 
 ## 3 zero-click content tactics
