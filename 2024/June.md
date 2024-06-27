@@ -1,3 +1,10 @@
+# 27th June
+
+# Optimistic UI Tricks for Livewire and Alpine
+https://tighten.com/insights/optimistic-ui-tips-livewire-alpine/
+
+Article talking about the optimistic UI that we can develop with Livewire and Alpine.
+
 # 24th June
 
 ## What Good PMs Don't Do
