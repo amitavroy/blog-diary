@@ -1,3 +1,11 @@
+# 28th June
+
+# Mastering Programming
+https://tidyfirst.substack.com/p/mastering-programming
+
+# Laravel Password less Login using Magic Link
+https://dev.to/shanisingh03/laravel-password-less-login-using-magic-link-lhj
+
 # 27th June
 
 # Optimistic UI Tricks for Livewire and Alpine
