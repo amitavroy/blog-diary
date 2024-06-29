@@ -1,3 +1,8 @@
+# 29th June
+
+How to Run Llama 3 Locally: A Complete Guide
+https://www.datacamp.com/tutorial/run-llama-3-locally
+
 # 28th June
 
 # Mastering Programming
