@@ -3,6 +3,9 @@
 How to Run Llama 3 Locally: A Complete Guide
 https://www.datacamp.com/tutorial/run-llama-3-locally
 
+Critical GitLab Bug Threatens Software Development Pipelines
+https://www.darkreading.com/application-security/critical-gitlab-bug-threatens-software-development-pipelines
+
 # 28th June
 
 # Mastering Programming
