@@ -1,5 +1,10 @@
 # 3rd July
 
+## The Open/Closed Principle in Laravel
+https://justintallant.com/open-closed-principle-in-laravel
+
+One more example of the Open/Closed principle of SOLID in development.
+
 ## Why we use phpunit.xml | Mastering Laravel
 https://masteringlaravel.io/daily/2024-06-17-why-we-use-phpunit-xml
 
