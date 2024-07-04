@@ -1,9 +1,11 @@
-# 3rd July
+# 4th July
 
 ## Paul Smith Ecommerce Case Study - Powered by Klevu AI
 https://www.klevu.com/case-study/paul-smith/
 
 A great case study on Paul Smith and how Klevu
+
+# 3rd July
 
 ## The Open/Closed Principle in Laravel
 https://justintallant.com/open-closed-principle-in-laravel
