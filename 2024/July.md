@@ -1,6 +1,11 @@
 # 4th July
 
-## Paul Smith Ecommerce Case Study - Powered by Klevu AI
+## How to Do Keyword Research for SEO
+https://ahrefs.com/blog/keyword-research
+
+Great article on Keyword research
+
+## Paul Smith E-commerce Case Study - Powered by Klevu AI
 https://www.klevu.com/case-study/paul-smith/
 
 A great case study on Paul Smith and how Klevu
