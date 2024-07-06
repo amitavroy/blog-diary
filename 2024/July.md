@@ -1,3 +1,8 @@
+# 6th July
+
+## How Mid-funnel Content Can
+https://ahrefs.com/blog/mid-funnel-content/
+
 # 4th July
 
 ## How to Do Keyword Research for SEO
