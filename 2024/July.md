@@ -1,3 +1,10 @@
+# 7th July
+
+## Container Security Scanning: Vulnerabilities, Risks and Tooling
+https://blog.gitguardian.com/container-security-scanning-vulnerabilities-risks-and-tooling/
+
+A good article and the website is a great resource for DevOps security
+
 # 6th July
 
 ## How Mid-funnel Content Can
