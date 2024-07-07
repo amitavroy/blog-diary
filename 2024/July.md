@@ -1,5 +1,10 @@
 # 7th July
 
+## Unlocking the power of unstructured data with RAG
+https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/
+
+A great article on how unstructured data can be used and how RAg is useful
+
 ## Container Security Scanning: Vulnerabilities, Risks and Tooling
 https://blog.gitguardian.com/container-security-scanning-vulnerabilities-risks-and-tooling/
 
