@@ -1,3 +1,10 @@
+# 8th July
+
+# Why I rarely use Laravel mailables anymore
+https://masteringlaravel.io/daily/2024-06-26-why-i-rarely-use-laravel-mailables-anymore
+
+A nice explanation on why Notifications makes for sense.
+
 # 7th July
 
 ## Unlocking the power of unstructured data with RAG
