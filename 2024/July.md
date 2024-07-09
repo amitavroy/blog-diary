@@ -1,3 +1,8 @@
+# 9th July
+
+## Laravel RAG System in 4 Steps!
+https://alnutile.medium.com/laravel-rag-in-4-steps-6264b4df173a
+
 # 8th July
 
 # Why I rarely use Laravel mailables anymore
