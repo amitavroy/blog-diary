@@ -1,3 +1,8 @@
+# 11th July
+
+## Container Efficiency in Modular Monoliths: Symfony vs. Laravel
+https://sarvendev.com/2024/07/container-efficiency-in-modular-monoliths-symfony-vs-laravel/
+
 # 9th July
 
 ## Laravel RAG System in 4 Steps!
